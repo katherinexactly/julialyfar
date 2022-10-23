@@ -25,7 +25,7 @@ p{
 /* ==========================ID=========================== */
 @font-face{
     font-family: 'tuesdayNight';
-    src: url(../TuesdayNight-Regular.otf);
+    src: url('TuesdayNight-Regular.otf');
 }
 /* ==========================CLASSES=========================== */
 .scroll{
